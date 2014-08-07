@@ -1,0 +1,22 @@
+[{
+    "name": "Agua Potable del Mar",
+    "id": 1,
+    "images": [
+         "item1-1.jpg",           
+         "item1-2.jpg",           
+         "item1-3.jpg",           
+         "item1-4.jpg",           
+         "item1-5.jpg",           
+         "item1-6.jpg",           
+         "item1-7.jpg"           
+    ],
+    "title": "Proyecto provisión de Saneamiento en los distritos del sur de Lima",
+    "description": "Este proyecto permitirá que cuatro distritos del sur de Lima cuenten con agua potable y alcantarillado de manera continua (todos los días y durante las 24 horas). El servició estará a cargo de Sedapal.",
+    "preview": "Algunos datos adicionales de este plan son:",
+    "accomplishments": [
+        "Los distritos beneficiados con este proyecto serán los que se encuentran ubicados en el tramo de la Panamericana Sur. Éstos son Punta Hermosa, Punta Negra, San Bartolo y Santa María.",
+        "La población que resultará beneficiada en temporada de invierno serán alrededor de 25,000 personas, sin embargo durante el verano los favorecidos serán 100,000 habitantes.",
+        "El proceso para aplicar este proyecto será un sistema de desalinización. El agua del océano Pacífico es tomada y bombeada a la planta de tratamiento mediante el proceso de ósmosis inversa. Luego de despojarla de la sal, es remineralizada y purificada para estar apta para el consumo humano."
+    ],
+    "youtubeUrl": "iZFLKUwB7ac"
+}]

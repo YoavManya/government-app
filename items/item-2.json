@@ -1,0 +1,21 @@
+[{
+    "name": "Tramo dos Carretera",
+    "id": 2,
+    "images": [
+         "item2-1.jpg",           
+         "item2-2.jpg",           
+         "item2-3.jpg",           
+         "item2-4.jpg",           
+         "item2-5.jpg",           
+         "item2-6.jpg"    
+    ],
+    "title": "Proyecto Tramo 2 de la Carretera Longitudinal de la Sierra",
+    "description": "El proyecto del tramo 2 de la Carretera Longitudinal de la Sierra tendrá una extensión de 975 kilómetros y atravesará los departamentos de La Libertad y Cajamarca. La agencia ProInversión ya adjudicó este plan y el consorcio formado por las españolas Sacyr Concesiones SL y Constructora Málaga Hnos. SA serán los encargados de hacerla realidad.",
+    "preview": "Estas compañías tendrán que cumplir los siguientes objetivos:",
+    "accomplishments": [
+        "Ejecutar las obras necesarias para devolver la infraestructura vial a sus características originales y adecuarla a su nuevo periodo de servicio. Este punto también incluye la construcción y adecuación de puentes, túneles, drenaje, muros y señalización.",
+        "Mantenimiento periódico inicial. Ejecución de trabajos en la vía existente en los primeros años de la concesión a fin de alcanzar y/o superar los niveles de servicio exigidos en el contrato.",
+        "Operación y mantenimiento. Se realizará durante los 25 años de la concesión a lo largo de los 875 km del tramo para mantenerlo en óptimas condiciones."
+    ],
+    "youtubeUrl": "5Dltwbe86r0"
+}]

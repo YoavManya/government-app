@@ -1,0 +1,24 @@
+[{
+    "name": "Programa Beca 18",
+    "id": 3,
+    "images": [
+         "item3-1.jpg",           
+         "item3-2.jpg",           
+         "item3-3.jpg",           
+         "item3-4.jpg",           
+         "item3-5.jpg",           
+         "item3-6.jpg",           
+         "item3-7.jpg",           
+         "item3-8.jpg"           
+    ],
+    "title": "Programa Beca 18",
+    "description": "Beca 18 es un programa que permite a los jóvenes con alto rendimiento académico y bajo recursos económicos, concluir su formación académica técnica o profesional en reconocidas universidades e institutos.",
+    "preview": "Características del programa Beca 18:",
+    "accomplishments": [
+        "El programa Beca 18 cubre lo siguiente: inscripción, matrícula, nivelación académica, pensión de enseñanza, materiales de estudio, idioma, gastos de alimentación, gastos de alojamiento, movilidad local, tutoría, seguro médico y titulación.",
+        "En el último año, Beca 18 entregó 11,938 becas a estudiantes de pobreza y extrema pobreza para que puedan culminar sus estudios. La inversión alcanzó los 395 millones de soles.",
+        "Si uno forma parte del programa Beca 18 podrá elegir entre 35 universidades y 75 institutos superiores tecnológicos públicos o privados.",
+        "Una modalidad de este programa también es Beca 18 para Egresados del Servicio Militar Voluntario, y próximamente también se implementará para artistas y deportistas calificados."
+    ],
+    "youtubeUrl": "EVM6N4zyV24"
+}]

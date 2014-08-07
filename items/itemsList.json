@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Agua Potable del Mar",
+        "id": "item-1",
+        "mainImage": "item1-main.jpg"
+    },
+    {
+        "name": "Tramo dos Carretera",
+        "id": "item-2",
+        "mainImage": "item2-main.jpg"
+    },
+    {
+        "name": "Programa Beca 18",
+        "id": "item-3",
+        "mainImage": "item3-main.jpg"
+    },
+    {
+        "name": "Programa Juntos",
+        "id": "item-4",
+        "mainImage": "item4-main.jpg"
+    }
+]

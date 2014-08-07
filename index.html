@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="govermentApp">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta property="og:title" content="Estas son las obras que el Perú tiene para ti"/>
+	<meta property="og:image" content="http://yoav.dhdinc.com/government-app/images/peru-somos-todos-2.jpg"/>
+	<meta property="og:site_name" content="Estas son las obras que el Peru tiene para ti"/>
+	<meta property="og:url" content="http://www.yoav.dhdinc.com/government-app"/>
+	<meta property="og:description" content="Conoce los proyectos de este último año que impulsarán nuestro país"/>
+
+	<base href="/government-app/">
+ 	<link rel="stylesheet" href="styles/bootstrap.min.css" type="text/css">
+ 	<link rel="stylesheet" href="styles/normalize.css" type="text/css">
+    <link rel="stylesheet" href="styles/app.css" type="text/css">
+    <link rel="stylesheet" href="styles/fonts.css" type="text/css">
+	<style rel='stylesheet' type='text/css' href="bower_components/angular-socialshare/angular-socialshare.min.css">
+	</style>
+
+	<script type="text/javascript" src="scripts/angular.js"></script>
+	<script type="text/javascript" src="scripts/angular-route.js"></script>
+	<script type="text/javascript" src="scripts/angular-resource.js"></script>
+	<script type="text/javascript" src="scripts/angular-scroll.min.js"></script>
+	<script type="text/javascript" src="scripts/ui-bootstrap-tpls-0.11.0.min.js"></script>
+	<script type="text/javascript" src="bower_components/angular-socialshare/angular-socialshare.min.js"></script>
+	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	<script type="text/javascript" src="scripts/app.js"></script>
+	<script type="text/javascript" src="scripts/controllers.js"></script>
+	<script type="text/javascript" src="scripts/services.js"></script>	
+	<script type="text/javascript" src="scripts/script.js"></script>	
+
+	<title> Perú Somos Todos </title>
+</head>
+<body class="body">
+	<section id="header" class="text-center">
+		<div class="jumbotron" style="background: none">
+		  <a href="/government-app/" style="text-decoration: none!important;">
+		  	<h1 style="color: #A43A3A; font: 63px rock; margin: 60px 0 10px;">¿Qué piensas sobre tu gobierno?</h1>
+		  </a>
+		  <p style="color: #fff">En este nuevo aniversario de nuestro pais, <br /> te invitamos a compartir tu opinion</p>
+		  <a href="#main-angular" du-smooth-scroll class="btn btn-header">
+			 <span class="glyphicon glyphicon-chevron-down icon-header"></span>
+		  </a>
+		</div>
+	</section>
+	<div class="view-container container" style="background-color: #fff">
+		<div class="peru-bar-container">
+			<div class="peru-bar bar-left"></div>
+		</div>
+		<div class="peru-bar-container">
+			<div class="peru-bar bar-right"></div>
+		</div>
+	    <div id="main-angular" class="view-frame row page-container" ng-view ></div>
+	</div>
+	<footer id="footer">
+		<div class="container-fluid">
+			<div class="row">
+				<p class="text-center">
+					<a href="http://manya.pe" target="_blank" style="color: #fff; text-decoration: none;">
+						<img src="images/manya-logo.png" class="manya-logo" alt="">
+						Manya.pe - Diseno de paginas web</p>
+					</a>
+				<p class="text-center">&#169; 2014 Perú Somos Todos. Todos los derechos reservados</p>
+			</div>
+		</div>
+	</footer>
+</body>

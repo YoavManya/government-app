@@ -1,0 +1,25 @@
+<section id="main" class="text-center">
+	<div class="container">
+		<div class="divider"></div>
+		<h2 class="red-title">Estan son las obras que se han realizado para ti</h2>
+		<div class="divider"></div>
+		<ul class="products list-unstyled text-left">
+			<li class="item" ng-repeat="item in items">
+				<a ng-href="#/items/item/{{item.id}}">
+					<img class="item-image" ng-src="images/{{item.mainImage}}">
+					<div class="item-title">Nombre: {{item.name}}</div>
+				</a>
+			</li>
+		</ul>
+		<div class="divider"></div>
+		<h2 class="red-title">¿Y ahora, crees que el Perú ha cambiado? <br /> 
+		¡Te invitamos a compartir tu opinión!
+		</h2>
+		<div class="divider"></div>
+		<div class="survey-link">
+		    <a href="#survey" class="btn btn-red btn-huge">Dar mi opinión</a>
+		    <img src="images/triangle.png" alt="triangle" class="triangle">
+		    <img src="images/character1.png" alt="person" class="person">
+		</div>
+	</div>
+</section>

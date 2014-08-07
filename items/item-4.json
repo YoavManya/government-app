@@ -1,0 +1,22 @@
+[{
+    "name": "Programa Juntos",
+    "id": 4,
+    "images": [
+         "item4-1.jpg",           
+         "item4-2.jpg",           
+         "item4-3.jpg",           
+         "item4-4.jpg",           
+         "item4-5.jpg",           
+         "item4-6.jpg"   
+    ],
+    "title": "Programa Juntos",
+    "description": "Juntos es el programa nacional de apoyo directo a los más pobres cuyo objetivo es brindarles incentivos monetarios con el fin que cubran servicios básicos como salud y educación a sus hijos.",
+    "preview": "Estos son los resultados del programa juntos en la población:",
+    "accomplishments": [
+        "Contribuir al desarrollo humano y al desarrollo de capacidades especialmente de las generaciones futuras, orientando su accionar a romper la transferencia intergeneracional de la pobreza.",
+        "Promover y apoyar el acceso de los hogares en situación de pobreza y pobreza extrema a servicios de calidad en educación, salud y nutrición.",
+        "Restituir los derechos básicos de los hogares y mejorar la calidad de vida y el desarrollo de capital humano en aquellos que padecen situaciones difíciles y viven en zonas alejadas.",
+        "Establecer el concepto que Juntos les servirá como un soporte para sanear sus necesidades primarias, sin embargo la principal fuente de economía en una familia deberá ser siempre el trabajo."
+    ],
+    "youtubeUrl": "iJVTdh8J7SM"
+}]

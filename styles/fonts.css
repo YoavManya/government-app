@@ -1,0 +1,18 @@
+@font-face{
+	font-family: "rock";
+	src: url('../fonts/rock.eot') format('eot'),
+	url('../fonts/rock.woff') format('woff'),
+	url('../fonts/rock.ttf') format('truetype'),
+	url('../fonts/rock.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family: "avgardm";
+	src: url('../fonts/avgardm.eot') format('eot'),
+	url('../fonts/avgardm.woff') format('woff'),
+	url('../fonts/avgardm.ttf') format('truetype'),
+	url('../fonts/avgardm.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
